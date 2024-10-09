@@ -109,8 +109,7 @@ default:
   addReply: 1
   addRecall: 60
   addPrivate: 1
-  disable:
-    - syjs:上下班
+  disable: []
 
 158649349:
   __place__: 0
